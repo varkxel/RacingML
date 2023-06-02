@@ -1,0 +1,118 @@
+{
+  "count": 1,
+  "self": 94342.5519616,
+  "total": 142924.9446686,
+  "children": {
+    "InitializeActuators": {
+      "count": 8,
+      "self": 0.0019996,
+      "total": 0.0019996,
+      "children": null
+    },
+    "InitializeSensors": {
+      "count": 8,
+      "self": 0.0046593,
+      "total": 0.0046593,
+      "children": null
+    },
+    "AgentSendState": {
+      "count": 49168653,
+      "self": 4504.4015104,
+      "total": 5747.2088350999993,
+      "children": {
+        "CollectObservations": {
+          "count": 39334928,
+          "self": 191.888,
+          "total": 191.88799899999998,
+          "children": null
+        },
+        "WriteActionMask": {
+          "count": 39334928,
+          "self": 35.694655999999995,
+          "total": 35.694655,
+          "children": null
+        },
+        "RequestDecision": {
+          "count": 39334928,
+          "self": 131.9533312,
+          "total": 1015.2247785,
+          "children": {
+            "AgentInfo.ToProto": {
+              "count": 39334928,
+              "self": 127.74483199999999,
+              "total": 883.2714502,
+              "children": {
+                "GenerateSensorData": {
+                  "count": 39334928,
+                  "self": 646.7486208,
+                  "total": 755.526621,
+                  "children": {
+                    "RayPerceptionSensor.Perceive": {
+                      "count": 39334928,
+                      "self": 108.77798399999999,
+                      "total": 108.7779855,
+                      "children": null
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "DecideAction": {
+      "count": 49168653,
+      "self": 42540.718489599996,
+      "total": 42540.718126399996,
+      "children": null
+    },
+    "AgentAct": {
+      "count": 49168653,
+      "self": 290.4905472,
+      "total": 294.4582759,
+      "children": {
+        "AgentInfo.ToProto": {
+          "count": 163888,
+          "self": 0.6478612,
+          "total": 3.9677160999999996,
+          "children": {
+            "GenerateSensorData": {
+              "count": 163888,
+              "self": 2.7777388,
+              "total": 3.3198548999999997,
+              "children": {
+                "RayPerceptionSensor.Perceive": {
+                  "count": 163888,
+                  "self": 0.54211599999999993,
+                  "total": 0.54211599999999993,
+                  "children": null
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "gauges": {
+    "Miat.CumulativeReward": {
+      "count": 163888,
+      "max": 1124.70508,
+      "min": -597.5668,
+      "runningAverage": 278.700775,
+      "value": 893.6975,
+      "weightedAverage": 605.9563
+    }
+  },
+  "metadata": {
+    "timer_format_version": "0.1.0",
+    "start_time_seconds": "1685564952",
+    "unity_version": "2022.1.7f1",
+    "command_line_arguments": "C:\\Program Files\\Unity\\Hub\\Editor\\2022.1.7f1\\Editor\\Unity.exe -projectpath C:\\Users\\Myles\\Desktop\\RacingAI -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Myles -hubSessionId 1ab893e3-edac-479c-91ab-3502065825cb -accessToken OIJajGr8O00a3LzouNIXqgif3V7f9KNaH2J_wkUsG7A005f",
+    "communication_protocol_version": "1.5.0",
+    "com.unity.ml-agents_version": "2.0.1",
+    "scene_name": "scene1-night",
+    "end_time_seconds": "1685707876"
+  }
+}

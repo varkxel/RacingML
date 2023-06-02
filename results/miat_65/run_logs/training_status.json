@@ -1,0 +1,731 @@
+{
+    "Miat": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-499968.onnx",
+                "reward": -472.9177998134068,
+                "creation_time": 1685566876.0647314,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-499968.pt"
+                ]
+            },
+            {
+                "steps": 999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-999984.onnx",
+                "reward": -274.2336794096848,
+                "creation_time": 1685568756.5347497,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-999984.pt"
+                ]
+            },
+            {
+                "steps": 1499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-1499904.onnx",
+                "reward": null,
+                "creation_time": 1685570576.2828615,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-1499904.pt"
+                ]
+            },
+            {
+                "steps": 1999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-1999968.onnx",
+                "reward": -14.889174325712796,
+                "creation_time": 1685572413.6691897,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-1999968.pt"
+                ]
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-2499968.onnx",
+                "reward": -25.52511116862297,
+                "creation_time": 1685574212.8036869,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-2999936.onnx",
+                "reward": null,
+                "creation_time": 1685575951.2405581,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-2999936.pt"
+                ]
+            },
+            {
+                "steps": 3499936,
+                "file_path": "results\\miat_65\\Miat\\Miat-3499936.onnx",
+                "reward": 45.92655437223373,
+                "creation_time": 1685577893.5823958,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-3499936.pt"
+                ]
+            },
+            {
+                "steps": 3999872,
+                "file_path": "results\\miat_65\\Miat\\Miat-3999872.onnx",
+                "reward": 63.12543821334839,
+                "creation_time": 1685580440.6570282,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-3999872.pt"
+                ]
+            },
+            {
+                "steps": 4499920,
+                "file_path": "results\\miat_65\\Miat\\Miat-4499920.onnx",
+                "reward": 53.13139486312866,
+                "creation_time": 1685582535.7813993,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-4499920.pt"
+                ]
+            },
+            {
+                "steps": 4999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-4999936.onnx",
+                "reward": 92.84388881549239,
+                "creation_time": 1685584227.2833788,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-4999936.pt"
+                ]
+            },
+            {
+                "steps": 5499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-5499904.onnx",
+                "reward": 84.03661519289017,
+                "creation_time": 1685585897.077055,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-5499904.pt"
+                ]
+            },
+            {
+                "steps": 5999888,
+                "file_path": "results\\miat_65\\Miat\\Miat-5999888.onnx",
+                "reward": 125.64048882893154,
+                "creation_time": 1685587565.404943,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-5999888.pt"
+                ]
+            },
+            {
+                "steps": 6499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-6499968.onnx",
+                "reward": 111.58991804160178,
+                "creation_time": 1685589232.1665552,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-6499968.pt"
+                ]
+            },
+            {
+                "steps": 6999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-6999984.onnx",
+                "reward": 117.69227002762459,
+                "creation_time": 1685590911.535747,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-6999984.pt"
+                ]
+            },
+            {
+                "steps": 7499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-7499904.onnx",
+                "reward": 67.63238653540611,
+                "creation_time": 1685592585.6058042,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-7499904.pt"
+                ]
+            },
+            {
+                "steps": 7999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-7999968.onnx",
+                "reward": 156.30961296142954,
+                "creation_time": 1685594254.0913815,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-7999968.pt"
+                ]
+            },
+            {
+                "steps": 8499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-8499968.onnx",
+                "reward": 170.07464417219163,
+                "creation_time": 1685595924.9953523,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-8499968.pt"
+                ]
+            },
+            {
+                "steps": 8999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-8999936.onnx",
+                "reward": 155.23864787817,
+                "creation_time": 1685597599.5750093,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-8999936.pt"
+                ]
+            },
+            {
+                "steps": 9499936,
+                "file_path": "results\\miat_65\\Miat\\Miat-9499936.onnx",
+                "reward": 139.95623434271133,
+                "creation_time": 1685599264.590765,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-9499936.pt"
+                ]
+            },
+            {
+                "steps": 9999872,
+                "file_path": "results\\miat_65\\Miat\\Miat-9999872.onnx",
+                "reward": 154.77433780133725,
+                "creation_time": 1685601099.9935236,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-9999872.pt"
+                ]
+            },
+            {
+                "steps": 10499920,
+                "file_path": "results\\miat_65\\Miat\\Miat-10499920.onnx",
+                "reward": 83.64251917058772,
+                "creation_time": 1685604169.5101883,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-10499920.pt"
+                ]
+            },
+            {
+                "steps": 10999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-10999936.onnx",
+                "reward": 178.239430911839,
+                "creation_time": 1685606899.321734,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-10999936.pt"
+                ]
+            },
+            {
+                "steps": 11499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-11499904.onnx",
+                "reward": 191.2827730000019,
+                "creation_time": 1685608992.9924688,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-11499904.pt"
+                ]
+            },
+            {
+                "steps": 11999888,
+                "file_path": "results\\miat_65\\Miat\\Miat-11999888.onnx",
+                "reward": 137.8393175760905,
+                "creation_time": 1685610883.9889047,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-11999888.pt"
+                ]
+            },
+            {
+                "steps": 12499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-12499968.onnx",
+                "reward": 228.153154194355,
+                "creation_time": 1685612871.764487,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-12499968.pt"
+                ]
+            },
+            {
+                "steps": 12999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-12999984.onnx",
+                "reward": 196.24508993360732,
+                "creation_time": 1685614790.5349426,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-12999984.pt"
+                ]
+            },
+            {
+                "steps": 13499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-13499904.onnx",
+                "reward": 236.25981467962265,
+                "creation_time": 1685616438.4230616,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-13499904.pt"
+                ]
+            },
+            {
+                "steps": 13999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-13999968.onnx",
+                "reward": 266.309555076264,
+                "creation_time": 1685618083.7251465,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-13999968.pt"
+                ]
+            },
+            {
+                "steps": 14499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-14499968.onnx",
+                "reward": 204.3582695821921,
+                "creation_time": 1685619740.9759622,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-14499968.pt"
+                ]
+            },
+            {
+                "steps": 14999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-14999936.onnx",
+                "reward": 339.8580905497074,
+                "creation_time": 1685621388.5491815,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-14999936.pt"
+                ]
+            },
+            {
+                "steps": 15499936,
+                "file_path": "results\\miat_65\\Miat\\Miat-15499936.onnx",
+                "reward": 261.7392207598075,
+                "creation_time": 1685623037.1493926,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-15499936.pt"
+                ]
+            },
+            {
+                "steps": 15999872,
+                "file_path": "results\\miat_65\\Miat\\Miat-15999872.onnx",
+                "reward": 254.85915011664233,
+                "creation_time": 1685624692.3921616,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-15999872.pt"
+                ]
+            },
+            {
+                "steps": 16499920,
+                "file_path": "results\\miat_65\\Miat\\Miat-16499920.onnx",
+                "reward": 278.9720588859759,
+                "creation_time": 1685626345.798195,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-16499920.pt"
+                ]
+            },
+            {
+                "steps": 16999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-16999936.onnx",
+                "reward": 250.08436614871025,
+                "creation_time": 1685627995.4045079,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-16999936.pt"
+                ]
+            },
+            {
+                "steps": 17499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-17499904.onnx",
+                "reward": 239.97502544522285,
+                "creation_time": 1685629658.7074914,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-17499904.pt"
+                ]
+            },
+            {
+                "steps": 17999888,
+                "file_path": "results\\miat_65\\Miat\\Miat-17999888.onnx",
+                "reward": 328.29717528301734,
+                "creation_time": 1685631311.204739,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-17999888.pt"
+                ]
+            },
+            {
+                "steps": 18499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-18499968.onnx",
+                "reward": 315.9300311714411,
+                "creation_time": 1685632963.7276876,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-18499968.pt"
+                ]
+            },
+            {
+                "steps": 18999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-18999984.onnx",
+                "reward": 309.1463011480727,
+                "creation_time": 1685634621.385533,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-18999984.pt"
+                ]
+            },
+            {
+                "steps": 19499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-19499904.onnx",
+                "reward": 431.49373225371045,
+                "creation_time": 1685636287.6312222,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-19499904.pt"
+                ]
+            },
+            {
+                "steps": 19999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-19999968.onnx",
+                "reward": 348.96307748701514,
+                "creation_time": 1685638157.034448,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-19999968.pt"
+                ]
+            },
+            {
+                "steps": 20499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-20499968.onnx",
+                "reward": 296.09457468560765,
+                "creation_time": 1685640154.8293762,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-20499968.pt"
+                ]
+            },
+            {
+                "steps": 20999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-20999936.onnx",
+                "reward": 377.21047445138294,
+                "creation_time": 1685642086.7557547,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-20999936.pt"
+                ]
+            },
+            {
+                "steps": 21499936,
+                "file_path": "results\\miat_65\\Miat\\Miat-21499936.onnx",
+                "reward": 380.1821177726568,
+                "creation_time": 1685643773.550857,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-21499936.pt"
+                ]
+            },
+            {
+                "steps": 21999872,
+                "file_path": "results\\miat_65\\Miat\\Miat-21999872.onnx",
+                "reward": 396.83474119646206,
+                "creation_time": 1685645469.739579,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-21999872.pt"
+                ]
+            },
+            {
+                "steps": 22499920,
+                "file_path": "results\\miat_65\\Miat\\Miat-22499920.onnx",
+                "reward": 432.0155775458724,
+                "creation_time": 1685647165.9982586,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-22499920.pt"
+                ]
+            },
+            {
+                "steps": 22999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-22999936.onnx",
+                "reward": null,
+                "creation_time": 1685648863.2344923,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-22999936.pt"
+                ]
+            },
+            {
+                "steps": 23499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-23499904.onnx",
+                "reward": 449.2549618056842,
+                "creation_time": 1685650552.8314939,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-23499904.pt"
+                ]
+            },
+            {
+                "steps": 23999888,
+                "file_path": "results\\miat_65\\Miat\\Miat-23999888.onnx",
+                "reward": 413.57842522282755,
+                "creation_time": 1685652243.011211,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-23999888.pt"
+                ]
+            },
+            {
+                "steps": 24499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-24499968.onnx",
+                "reward": null,
+                "creation_time": 1685653941.8957934,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-24499968.pt"
+                ]
+            },
+            {
+                "steps": 24999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-24999984.onnx",
+                "reward": 416.4579110184654,
+                "creation_time": 1685655636.6799135,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-24999984.pt"
+                ]
+            },
+            {
+                "steps": 25499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-25499904.onnx",
+                "reward": 388.3324961066246,
+                "creation_time": 1685657338.0310051,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-25499904.pt"
+                ]
+            },
+            {
+                "steps": 25999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-25999968.onnx",
+                "reward": 87.65999007225037,
+                "creation_time": 1685659033.1660335,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-25999968.pt"
+                ]
+            },
+            {
+                "steps": 26499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-26499968.onnx",
+                "reward": 400.87631087750196,
+                "creation_time": 1685660726.46842,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-26499968.pt"
+                ]
+            },
+            {
+                "steps": 26999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-26999936.onnx",
+                "reward": 405.8258817046881,
+                "creation_time": 1685662435.578504,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-26999936.pt"
+                ]
+            },
+            {
+                "steps": 27499936,
+                "file_path": "results\\miat_65\\Miat\\Miat-27499936.onnx",
+                "reward": 468.72004652023315,
+                "creation_time": 1685664093.6081798,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-27499936.pt"
+                ]
+            },
+            {
+                "steps": 27999872,
+                "file_path": "results\\miat_65\\Miat\\Miat-27999872.onnx",
+                "reward": 408.5158552750945,
+                "creation_time": 1685665798.7106256,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-27999872.pt"
+                ]
+            },
+            {
+                "steps": 28499920,
+                "file_path": "results\\miat_65\\Miat\\Miat-28499920.onnx",
+                "reward": 448.310899577822,
+                "creation_time": 1685667687.621181,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-28499920.pt"
+                ]
+            },
+            {
+                "steps": 28999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-28999936.onnx",
+                "reward": 416.0290053486824,
+                "creation_time": 1685669499.8962188,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-28999936.pt"
+                ]
+            },
+            {
+                "steps": 29499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-29499904.onnx",
+                "reward": 428.04161132872105,
+                "creation_time": 1685671291.741613,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-29499904.pt"
+                ]
+            },
+            {
+                "steps": 29999888,
+                "file_path": "results\\miat_65\\Miat\\Miat-29999888.onnx",
+                "reward": 417.4283784413949,
+                "creation_time": 1685673071.548541,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-29999888.pt"
+                ]
+            },
+            {
+                "steps": 30499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-30499968.onnx",
+                "reward": 284.8151240348816,
+                "creation_time": 1685674988.6599953,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-30499968.pt"
+                ]
+            },
+            {
+                "steps": 30999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-30999984.onnx",
+                "reward": 419.9724266425423,
+                "creation_time": 1685676872.898827,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-30999984.pt"
+                ]
+            },
+            {
+                "steps": 31499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-31499904.onnx",
+                "reward": 452.2042663633823,
+                "creation_time": 1685678659.027158,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-31499904.pt"
+                ]
+            },
+            {
+                "steps": 31999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-31999968.onnx",
+                "reward": 314.6041862487793,
+                "creation_time": 1685680458.7952058,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-31999968.pt"
+                ]
+            },
+            {
+                "steps": 32499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-32499968.onnx",
+                "reward": 453.87138006422254,
+                "creation_time": 1685682437.9803033,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-32499968.pt"
+                ]
+            },
+            {
+                "steps": 32999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-32999936.onnx",
+                "reward": 479.1438956618309,
+                "creation_time": 1685684562.70677,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-32999936.pt"
+                ]
+            },
+            {
+                "steps": 33499936,
+                "file_path": "results\\miat_65\\Miat\\Miat-33499936.onnx",
+                "reward": 406.9656018529619,
+                "creation_time": 1685686258.8753922,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-33499936.pt"
+                ]
+            },
+            {
+                "steps": 33999872,
+                "file_path": "results\\miat_65\\Miat\\Miat-33999872.onnx",
+                "reward": 425.69889009330007,
+                "creation_time": 1685688018.4286704,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-33999872.pt"
+                ]
+            },
+            {
+                "steps": 34499920,
+                "file_path": "results\\miat_65\\Miat\\Miat-34499920.onnx",
+                "reward": 451.58093540613044,
+                "creation_time": 1685689839.1562889,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-34499920.pt"
+                ]
+            },
+            {
+                "steps": 34999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-34999936.onnx",
+                "reward": 416.84895120561123,
+                "creation_time": 1685691560.8244848,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-34999936.pt"
+                ]
+            },
+            {
+                "steps": 35499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-35499904.onnx",
+                "reward": 436.342780864901,
+                "creation_time": 1685693218.5283847,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-35499904.pt"
+                ]
+            },
+            {
+                "steps": 35999888,
+                "file_path": "results\\miat_65\\Miat\\Miat-35999888.onnx",
+                "reward": 444.42956697179915,
+                "creation_time": 1685694879.4827511,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-35999888.pt"
+                ]
+            },
+            {
+                "steps": 36499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-36499968.onnx",
+                "reward": 408.6324621140957,
+                "creation_time": 1685696545.4110599,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-36499968.pt"
+                ]
+            },
+            {
+                "steps": 36999984,
+                "file_path": "results\\miat_65\\Miat\\Miat-36999984.onnx",
+                "reward": 438.5584498736765,
+                "creation_time": 1685698455.769607,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-36999984.pt"
+                ]
+            },
+            {
+                "steps": 37499904,
+                "file_path": "results\\miat_65\\Miat\\Miat-37499904.onnx",
+                "reward": 419.58134145538014,
+                "creation_time": 1685700365.9920597,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-37499904.pt"
+                ]
+            },
+            {
+                "steps": 37999968,
+                "file_path": "results\\miat_65\\Miat\\Miat-37999968.onnx",
+                "reward": 431.6498197846943,
+                "creation_time": 1685702381.6862009,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-37999968.pt"
+                ]
+            },
+            {
+                "steps": 38499968,
+                "file_path": "results\\miat_65\\Miat\\Miat-38499968.onnx",
+                "reward": 427.3183877110481,
+                "creation_time": 1685704281.2325773,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-38499968.pt"
+                ]
+            },
+            {
+                "steps": 38999936,
+                "file_path": "results\\miat_65\\Miat\\Miat-38999936.onnx",
+                "reward": 504.8177166779836,
+                "creation_time": 1685706596.3432508,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-38999936.pt"
+                ]
+            },
+            {
+                "steps": 39334144,
+                "file_path": "results\\miat_65\\Miat\\Miat-39334144.onnx",
+                "reward": 505.6438291221857,
+                "creation_time": 1685707872.588901,
+                "auxillary_file_paths": [
+                    "results\\miat_65\\Miat\\Miat-39334144.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 39334144,
+            "file_path": "results\\miat_65\\Miat.onnx",
+            "reward": 505.6438291221857,
+            "creation_time": 1685707872.588901,
+            "auxillary_file_paths": [
+                "results\\miat_65\\Miat\\Miat-39334144.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.0.1"
+    }
+}
