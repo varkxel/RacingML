@@ -1,0 +1,2 @@
+MX5 Model from: https://sketchfab.com/3d-models/toon-japan-mazda-mx5-miata-60d1e139e73e4f00bdaebf394cc0f6ad
+Uses race track asset on unity store available here: https://assetstore.unity.com/packages/3d/environments/roadways/mountain-race-track-night-68199
